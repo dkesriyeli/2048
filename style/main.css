@@ -3,7 +3,7 @@ html, body {
   margin: 0;
   padding: 0;
   background: #CAD6FA;;
-  color: #353CE4;
+  color: #0008CE;
   font-family: "Clear Sans", "Helvetica Neue", Arial, sans-serif;
   font-size: 36px; }
 
@@ -53,7 +53,7 @@ h1.title {
 .score-container, .best-container {
   position: relative;
   display: inline-block;
-  background: #353CE4;;
+  background: #0008CE;
   padding: 15px 25px;
   font-size: 25px;
   height: 25px;
@@ -183,11 +183,11 @@ hr {
       margin-top: 59px; }
     .game-container .game-message a {
       display: inline-block;
-      background: #8f7a66;
+      background: #CAD6FA;
       border-radius: 3px;
       padding: 0 20px;
       text-decoration: none;
-      color: #f9f6f2;
+      color: #0008CE;;
       height: 40px;
       line-height: 42px;
       margin-left: 9px; }
